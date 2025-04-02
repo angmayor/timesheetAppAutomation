@@ -15,7 +15,7 @@ const CONFIG = {
   clientId: 'canaimaa2z',
   clientSecret: '613edae2e94029f95483de78926ab78293a43216',
   // Asegúrate de que el redirectUri coincide con el configurado en TimesheetMobile
-  redirectUri: 'https://tudominio.com/callback'
+  redirectUri: 'https://www.google.com'
 };
 
 /**
